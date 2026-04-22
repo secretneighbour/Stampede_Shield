@@ -1,0 +1,9 @@
+{
+  "name": "Stampede Shield",
+  "description": "AI-powered crowd safety system with real-time person detection.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
